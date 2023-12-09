@@ -43,4 +43,7 @@ ul li img{
     .follow-heading{
         font-size: 1.4rem;
     }
+    .img-container img{
+        margin: 0.4rem 0rem;
+    }
 }
